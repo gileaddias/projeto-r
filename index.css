@@ -1,0 +1,40 @@
+body {
+background-color: black;
+/*color: white;*/
+}
+
+.content{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    height: 100vh;
+    margin: 0;
+}
+
+.title {
+    display: flex;
+    color: white;
+    padding-top: 25px;
+    margin-top: 90px;
+    justify-content: center;
+    align-items: center;
+    font-size: 96px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+}
+
+.frase{
+    display: flex;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    font-size: 196px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+}
+
+.gif{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
